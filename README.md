@@ -1,3 +1,4 @@
 # ambientacao-angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-yuffav)
+Reprodução do tutorial Getting started with Angular
+https://angular.io/start
